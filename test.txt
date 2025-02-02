@@ -1,1 +1,1 @@
-city: bangaluru
+city:trichy
